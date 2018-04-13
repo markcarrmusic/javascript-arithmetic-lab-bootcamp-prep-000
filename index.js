@@ -16,10 +16,10 @@ function divide(a ,b) {
 }
 
 // Increment / Decrement functions
-function inc(n) {
-  n =+ 1
+function inc(a) {
+  a =+ 1
 }
 
-function dec(n) {
+function dec(a) {
   n =- 1
 }
