@@ -21,5 +21,5 @@ function inc(a) {
 }
 
 function dec(a) {
-  n =- 1
+  a =- 1
 }
